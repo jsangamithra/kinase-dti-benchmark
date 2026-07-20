@@ -1,0 +1,5 @@
+drug,approved,smiles,target,note,predicted_probability,prediction
+Asciminib,2021,C1CN(CC1O)C2=NC=C(C=C2C3=CC=NN3)C(=O)NC4=CC=C(C=C4)OC(F)(F)Cl,ABL1(T315I),"Allosteric BCR-ABL1 inhibitor, documented for T315I-resistant CML",0.77807647,INTERACTING
+Selpercatinib,2020,CC(C)(COC1=CN2C(=C(C=N2)C#N)C(=C1)C3=CN=C(C=C3)N4CC5CC(C4)N5CC6=CN=C(C=C6)OC)O,RET(M918T),"Selective RET inhibitor, FDA-approved for RET-altered cancers including M918T",0.13147265,NOT INTERACTING
+Avapritinib,2020,CN1C=C(C=N1)C2=CN3N=CN=C(N4CCN(CC4)C5=NC=C(C=N5)[C@@](C)(N)C6=CC=C(F)C=C6)C3=C2,KIT(D816V),Approved specifically for KIT D816V-mutant systemic mastocytosis / GIST,0.2874545,NOT INTERACTING
+Encorafenib,2018,CC(C)N1C=C(C(=N1)C2=CC(=CC(=C2F)NS(=O)(=O)C)Cl)C3=NC(=NC=C3)NCC(C)NC(=O)OC,BRAF(V600E),"Selective BRAF inhibitor, FDA-approved for BRAF V600E/K-mutant melanoma",0.0068498827,NOT INTERACTING

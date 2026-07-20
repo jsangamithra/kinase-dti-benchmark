@@ -1,0 +1,11 @@
+bit_id,image,example_smiles
+1060,substructure_bit_1060.png,CN(C)CC1CCn2cc(c3ccccc32)C2=C(C(=O)NC2=O)c2cn(c3ccccc23)CCO1
+1956,substructure_bit_1956.png,Cc1cn(-c2cc(NC(=O)c3ccc(C)c(Nc4nccc(-c5cccnc5)n4)c3)cc(C(F)(F)F)c2)cn1
+1164,substructure_bit_1164.png,Cc1ccc2nc(NCCN)c3ncc(C)n3c2c1.Cl
+1226,substructure_bit_1226.png,C#Cc1cccc(Nc2ncnc3cc(OCCOC)c(OCCOC)cc23)c1
+1488,substructure_bit_1488.png,CN(C)CC1CCn2cc(c3ccccc32)C2=C(C(=O)NC2=O)c2cn(c3ccccc23)CCO1
+1325,substructure_bit_1325.png,O=C(NOCC1CC1)c1ccc(F)c(F)c1Nc1ccc(I)cc1Cl
+1027,substructure_bit_1027.png,O=c1ncn2nc(Sc3ccc(F)cc3F)ccc2c1-c1c(Cl)cccc1Cl
+1480,substructure_bit_1480.png,Oc1cccc(-c2nc(N3CCOCC3)c3oc4ncccc4c3n2)c1
+1157,substructure_bit_1157.png,C#Cc1cccc(Nc2ncnc3cc(OCCOC)c(OCCOC)cc23)c1
+1199,substructure_bit_1199.png,O=C(c1ccc(C=Cc2n[nH]c3ccccc23)cc1)N1CCNCC1
