@@ -1,0 +1,4 @@
+,point_estimate,bootstrap_mean,95%_CI_lower,95%_CI_upper,CI_width
+Cold-drug,0.6584,0.6584,0.6316,0.6858,0.0542
+Cold-target,0.9062,0.9063,0.8924,0.9193,0.0269
+Cold-BOTH,0.6143,0.6152,0.5635,0.6635,0.1
